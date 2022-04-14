@@ -52,7 +52,7 @@
     </div>
   </div>
 
-  <div class="cms article-page-content article-blocks">
+  <div class="cms article-blocks blog-body">
     {% for block in page.body %}
         {% include_block block with parent_page=page page_type="article" %}
     {% endfor %}
