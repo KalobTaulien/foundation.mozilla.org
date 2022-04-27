@@ -24,15 +24,6 @@
   }
 }
 
-.article-page-content {
-  .streamfield-content {
-    @extend .col-md-10;
-    &.wide {
-      @extend .col-12;
-    }
-  }
-}
-
 .blog-body {
   .streamfield-content {
     @extend .col-lg-8;
