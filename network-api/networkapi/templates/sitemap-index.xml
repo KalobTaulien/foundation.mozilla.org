@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <sitemap>
+
+      <loc>https://foundation.mozilla.org/en/sitemap.xml</loc>
+
+   </sitemap>
+
+   <sitemap>
+
+      <loc>https://foundation.mozilla.org/de/sitemap.xml</loc>
+
+   </sitemap>
+
+   <sitemap>
+
+      <loc>https://foundation.mozilla.org/es/sitemap.xml</loc>
+
+   </sitemap>
+
+   <sitemap>
+
+      <loc>https://foundation.mozilla.org/fr/sitemap.xml</loc>
+
+   </sitemap>
+
+   <sitemap>
+
+      <loc>https://foundation.mozilla.org/fy-NL/sitemap.xml</loc>
+
+   </sitemap>
+
+   <sitemap>
+
+      <loc>https://foundation.mozilla.org/nl/sitemap.xml</loc>
+
+   </sitemap>
+
+   <sitemap>
+
+      <loc>https://foundation.mozilla.org/pl/sitemap.xml</loc>
+
+   </sitemap>
+
+    <sitemap>
+
+      <loc>https://foundation.mozilla.org/pt-BR/sitemap.xml</loc>
+
+   </sitemap>
+
+   <sitemap>
+
+      <loc>https://foundation.mozilla.org/sw/sitemap.xml</loc>
+
+   </sitemap>
+
+</sitemapindex>
